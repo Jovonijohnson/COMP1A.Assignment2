@@ -29,3 +29,10 @@ border-bottom: 3px solid #EF9C00; /* Add a line below h2s */
 ul {
 list-style-type: square; /* Changes the bullets to squares */
 }
+footer  {
+    background-color: rgb(9, 9, 9);
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
